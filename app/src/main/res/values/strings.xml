@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Blood Point</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="achiev">Achievements</string>
+
+    <!-- Strings related to login -->
+    <string name="signup">Register</string>
+    <string name="prompt_email">Email</string>
+    <string name="register">Create an account</string>
+    <string name="forgotpass">Forgot password?</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="reset">Reset</string>
+    <string name="displayName">eg. Taylor Swift</string>
+    <string name="mobile">eg. 012-3456789</string>
+    <string name="userAddress">eg. Taman Batik</string>
+    <string name="HealthDescription">Description(Optional)</string>
+    <string name="nearH">Find nearest Hospitals</string>
+    <string name="fndBlood">Find Blood Donor</string>
+    <string name="lgout">Log out</string>
+    <string name="devinfo">About us</string>
+    <string name="BloodConnection">Blood Type Match</string>
+    <string name="GuideDonor">Guide Donor</string>
+    <string name="bloodinfo">Blood Info</string>
+    <string name="BloodGroup">Blood Group</string>
+    <string name="Division">Choose Division</string>
+    <string name="Post">Post</string>
+
+
+    <string-array name="division_list">
+        <item>Johor</item>
+        <item>Kedah</item>
+        <item>Kelantan</item>
+        <item>Negeri Sembilan</item>
+        <item>Pahang</item>
+        <item>Perak</item>
+        <item>Pulau Pinang</item>
+        <item>Perlis</item>
+        <item>Selangor</item>
+        <item>Sabah</item>
+        <item>Serawak</item>
+        <item>Terengganu</item>
+
+    </string-array>
+
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+
+    <array name="Health">
+        <item>Healthy</item>
+        <item>Chronic Disease</item>
+        <item>Allergies</item>
+    </array>
+
+    <array name="Blood_Group">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </array>
+
+    <string name="eligibility_">Eligibility Requirements</string>
+    <string name="female_">If you are female, you must:\n Be healthy and feeling well\nBe at least 17 years old in most states\nBe at least 5 ft 5 inch\nWeigh at least 150 lbs.</string>
+    <string name="male_">If you are male, you must:\nBe healthy and feeling well\nBe at least 17 years old in most states\nBe at least 5 ft 1 inch \nWeigh at least 130 lbs.\n</string>
+    <string name="info_">Giving blood saves lives. The blood you give is a lifeline in an emergency and for people who need long-term treatments. Many people would not be alive today if donors had not generously given their blood. \n\nWhy we need you to give blood?\n\n We need over 6000 blood donations every day to treat patients in need for people to give blood.\n\nEach year we need approximately 200000 new donors, as some donors can no longer give blood.Most people between ages of 17-65 are able to give blood. Around half our current donors are over 45.That is why we need more young people to start giving blood.</string>
+    <string name="aboutus">This is a projects on blood donation and collecting. Our Team Members are: \n
+
+    </string>
+    <string name="title">Blood Type Match</string>
+    <string name="bloodConnectionA">Donors with blood type A can donate to recipients with blood types A and AB</string>
+    <string name="bloodConnectionB">Donors with blood type B can donate to recipients with blood types B and AB</string>
+    <string name="bloodConnectionAB">Donors with blood type AB can donate to recipients with blood type AB only</string>
+    <string name="bloodConnectionO">Donors with blood type O can donate to recipients with blood types A, B, AB and O (O is the universal donor: donors with O blood are compatible with any other blood type)</string>
+
+    <string name="guidedonor">Guidelines Before Donate Blood\n</string>
+    <string name="info1">1. Get plenty of sleep the night before you plan to donate.\n\n2. Drink plenty of water before the donation.
+    \n\n3. Check to see if any medications you are taking or recently took would prevent you from donating.
+    \n\n4. Avoid fatty foods and eat a healthy meal.</string>
+
+    <string name="info2">-> Anyone who has had a positive test for HIV\n\n-> Anyone who has used injected drugs that are not prescribed by a health care provider in the past three months\n\n-> Anyone who do not meet minimum level of haemoglobin before donating blood.</string>
+
+    <string name="food1">\nBREAD AND CEREALS\nWheat bread\n Oat cereal\nWhole wheat pasta\nRye bread\n</string>
+    <string name="food2">\n\nFRUITS\nStrawberries\nWatermelon\nDates\nPrunes\nFigs\n</string>
+    <string name="food3">\n\nMEAT\nBeef\nChicken\nLamb\nTurkey\n\n</string>
+    <string name="food4">\n\nSEAFOOD\nShrimps\nClams\nScallops\nTuna\nSardines\n</string>
+    <string name="food5">\nVEGETABLE\nBroccoli\nSpinach\nKale\nSweet potatoes\n</string>
+
+
+</resources>
